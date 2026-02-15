@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+sentence-transformers
+chromadb
+joblib
+matplotlib
+notebook
+evidently
